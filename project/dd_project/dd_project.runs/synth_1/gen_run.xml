@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a100tfgg484-1" LaunchTime="1578098104">
+  <File Type="PA-TCL" Name="Main.tcl"/>
+  <File Type="REPORTS-TCL" Name="Main_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Main.vds"/>
+  <File Type="RDS-UTIL" Name="Main_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Main_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Main.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/BeginState.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/BeginState.v"/>
+        <Attr Name="ImportTime" Val="1578104642"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Divide.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Divide.v"/>
+        <Attr Name="ImportTime" Val="1576659834"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Divide2.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Divide2.v"/>
+        <Attr Name="ImportTime" Val="1577318311"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Divide3.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Divide3.v"/>
+        <Attr Name="ImportTime" Val="1577986121"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Divide3_begin.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Divide3_begin.v"/>
+        <Attr Name="ImportTime" Val="1577319613"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Ring.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Ring.v"/>
+        <Attr Name="ImportTime" Val="1578104310"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Scores.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Scores.v"/>
+        <Attr Name="ImportTime" Val="1578104482"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/binaryToBCD.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/binaryToBCD.v"/>
+        <Attr Name="ImportTime" Val="1576326730"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/decodePeople.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/decodePeople.v"/>
+        <Attr Name="ImportTime" Val="1577304031"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/keyboard.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/keyboard.v"/>
+        <Attr Name="ImportTime" Val="1577301277"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/setting.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/setting.v"/>
+        <Attr Name="ImportTime" Val="1578099621"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/show2.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/show2.v"/>
+        <Attr Name="ImportTime" Val="1578102916"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Main.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/sources_1/new/Main.v"/>
+        <Attr Name="ImportTime" Val="1578099609"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Main"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/new/aa.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="E:/vivado/projectQiangda2/projectQiangda.srcs/constrs_1/new/aa.xdc"/>
+        <Attr Name="ImportTime" Val="1578098076"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

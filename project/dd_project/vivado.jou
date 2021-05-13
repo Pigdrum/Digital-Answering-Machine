@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Jan  4 12:00:28 2020
+# Process ID: 5204
+# Current directory: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12008
+# Log file: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/vivado/qiangda/qiangda.xpr
+update_compile_order -fileset sources_1
+save_project_as dd_project C:/Users/lenovo/Desktop/dd_project -force
+archive_project C:/Users/lenovo/Desktop/dd_project.xpr.zip -temp_dir C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-5204-DESKTOP-GOBJLFG -force -include_local_ip_cache -include_config_settings
